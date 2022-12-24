@@ -1,0 +1,34 @@
+﻿  Lab2.cpp
+D:\OOP\laboratory\Lab2\Lab2\editor.h(22,7): error C2143: syntax error: missing ';' before '*'
+D:\OOP\laboratory\Lab2\Lab2\editor.h(22,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OOP\laboratory\Lab2\Lab2\editor.h(22,37): error C2238: unexpected token(s) preceding ';'
+D:\OOP\laboratory\Lab2\Lab2\editor.h(39,22): error C2065: 'MY_SHAPE_ARRAY_SIZE': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\editor.h(40,7): error C2065: 'pcshape': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\editor.h(41,4): error C2065: 'pcshape': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\editor.h(75,2): error C2065: 'pcshape': undeclared identifier
+  shape_editor.cpp
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(3,6): error C2653: 'ShapeObjectsEditor': is not a class or namespace name
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(5,6): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(5,18): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(5,21): error C2541: 'delete': cannot delete objects that are not pointers
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(6,2): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(6,12): error C2061: syntax error: identifier 'PointEditor'
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(9,6): error C2653: 'ShapeObjectsEditor': is not a class or namespace name
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(11,6): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(11,18): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(11,21): error C2541: 'delete': cannot delete objects that are not pointers
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(12,2): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(12,12): error C2061: syntax error: identifier 'LineEditor'
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(15,6): error C2653: 'ShapeObjectsEditor': is not a class or namespace name
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(17,6): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(17,18): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(17,21): error C2541: 'delete': cannot delete objects that are not pointers
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(18,2): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(18,12): error C2061: syntax error: identifier 'RectEditor'
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(21,6): error C2653: 'ShapeObjectsEditor': is not a class or namespace name
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(23,6): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(23,18): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(23,21): error C2541: 'delete': cannot delete objects that are not pointers
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(24,2): error C2065: 'pse': undeclared identifier
+D:\OOP\laboratory\Lab2\Lab2\shape_editor.cpp(24,12): error C2061: syntax error: identifier 'EllipseEditor'
+  Generating Code...
